@@ -50,6 +50,7 @@
   "devDependencies": {
     "expresso" : "= 0.7.x",
     "docco" : "= 0.3.x",
+    "uglify-js": "1.0.x",
     "jshint" : "= 0.2.x"
   },
   "scripts": {
